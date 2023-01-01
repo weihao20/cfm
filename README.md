@@ -67,9 +67,9 @@ CUDA_VISIBLE_DEVICES=0 python eval.py --dataset f30k --data_path /tmp/data/f30k 
 
 ## Results
 
-|           | R1   | R5   | R1   | R5   | Link |
-| --------- | ---- | ---- | ---- | ---- | ---- |
-| COCO 1K   | 80.6 | 96.8 | 65.0 | 91.4 |      |
-| COCO 5K   | 59.5 | 86.1 | 42.7 | 73.1 |      |
-| Flickr30K | 82.7 | 95.5 | 62.6 | 86.9 |      |
+|           | R1   | R5   | R1   | R5   | Link                                                         |
+| --------- | ---- | ---- | ---- | ---- | ------------------------------------------------------------ |
+| COCO 1K   | 80.6 | 96.8 | 65.0 | 91.4 | [Google drive](https://drive.google.com/drive/folders/1oRRbXo6CfNY5zc7MBFEpC1ZuCW_bCVjm?usp=sharing) |
+| COCO 5K   | 59.5 | 86.1 | 42.7 | 73.1 |                                                              |
+| Flickr30K | 82.7 | 95.5 | 62.6 | 86.9 | [Google drive](https://drive.google.com/drive/folders/1J7A--rKfZkXGI5NRR3JCODIkSiYP2Kke?usp=sharing) |
 
